@@ -1,8 +1,8 @@
 ![imagine stars with adrian in the middle](phm.gif) 
 
 <p float="left">
-  <img src="BM.png" width="600"  />
-  <img src="github.gif" width="400" /> 
+  <img src="BM.png" width="300"  />
+  <img src="github.gif" width="200" /> 
 </p>
 
 
